@@ -1,0 +1,60 @@
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\bin\Debug\net6.0\SistemaPOO.exe
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\bin\Debug\net6.0\SistemaPOO.deps.json
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\bin\Debug\net6.0\SistemaPOO.runtimeconfig.json
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\bin\Debug\net6.0\SistemaPOO.dll
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\bin\Debug\net6.0\SistemaPOO.pdb
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.csproj.AssemblyReference.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.AssemblyInfoInputs.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.AssemblyInfo.cs
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.dll
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\refint\SistemaPOO.dll
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.pdb
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\SistemaPOO.genruntimeconfig.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO\obj\Debug\net6.0\ref\SistemaPOO.dll
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.csproj.AssemblyReference.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.AssemblyInfoInputs.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.AssemblyInfo.cs
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.dll
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\refint\SistemaPOO.dll
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.pdb
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.exe
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.deps.json
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.runtimeconfig.json
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.dll
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.pdb
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.genruntimeconfig.cache
+C:\Users\emmanuel\Desktop\Profe Unicaribe\POO\CS\SistemaPOO - Copy\obj\Debug\net6.0\ref\SistemaPOO.dll
+C:\Users\Marco\Downloads\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.exe
+C:\Users\Marco\Downloads\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.deps.json
+C:\Users\Marco\Downloads\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.runtimeconfig.json
+C:\Users\Marco\Downloads\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.dll
+C:\Users\Marco\Downloads\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.pdb
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.csproj.AssemblyReference.cache
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.AssemblyInfoInputs.cache
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.AssemblyInfo.cs
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.dll
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\refint\SistemaPOO.dll
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.pdb
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.genruntimeconfig.cache
+C:\Users\Marco\Downloads\SistemaPOO - Copy\obj\Debug\net6.0\ref\SistemaPOO.dll
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.exe
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.deps.json
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.runtimeconfig.json
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.dll
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\bin\Debug\net6.0\SistemaPOO.pdb
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.AssemblyInfo.cs
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.dll
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\refint\SistemaPOO.dll
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.pdb
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\SistemaPOO.genruntimeconfig.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 2\SistemaPOO - Copy\obj\Debug\net6.0\ref\SistemaPOO.dll

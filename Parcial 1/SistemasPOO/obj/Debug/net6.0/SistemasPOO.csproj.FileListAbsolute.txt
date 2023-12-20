@@ -1,0 +1,15 @@
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\bin\Debug\net6.0\SistemasPOO.exe
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\bin\Debug\net6.0\SistemasPOO.deps.json
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\bin\Debug\net6.0\SistemasPOO.runtimeconfig.json
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\bin\Debug\net6.0\SistemasPOO.dll
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\bin\Debug\net6.0\SistemasPOO.pdb
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.AssemblyInfo.cs
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.dll
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\refint\SistemasPOO.dll
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.pdb
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\SistemasPOO.genruntimeconfig.cache
+C:\Users\Marco\Desktop\C++\ACTIVIDADES\POO\Parcial 1\SistemasPOO\obj\Debug\net6.0\ref\SistemasPOO.dll
