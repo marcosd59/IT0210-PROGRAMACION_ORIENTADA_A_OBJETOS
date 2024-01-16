@@ -22,7 +22,7 @@ Este repositorio contiene información y recursos relacionados con la asignatura
      - c) Polimorfismo
      - d) Herencia
 
-### Unidad II. Abstracción y Encapsulamiento
+### Unidad II. ABSTRACCIÓN Y ENCAPSULAMIENTO
 
 - Aplicar las propiedades de abstracción y encapsulamiento para la definición de clases e instanciación de objetos.
   1. Modelando clases
@@ -38,14 +38,14 @@ Este repositorio contiene información y recursos relacionados con la asignatura
      - b) Definición de subclases
   3. Polimorfismo
 
-### Unidad IV. Interfaces y Herencia Múltiple
+### Unidad IV. INTERFACES Y HERENCIA MÚLTIPLE
 
 - Usar interfaces y herencia múltiple para la implementación de programas utilizando el paradigma orientado a objetos.
   1. Clases abstractas
   2. Interfaces
   3. Herencia múltiple
 
-### Unidad V. Programación Concurrente
+### Unidad V. PROGRAMACIÓN CONCURRENTE
 
 - Elegir el paradigma orientado a objetos para la creación de programas concurrentes.
   1. Creación de hilos
