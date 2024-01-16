@@ -2,21 +2,6 @@
 
 Este repositorio contiene información y recursos relacionados con la asignatura "Programación Orientada a Objetos" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
 
-## Detalles de la Asignatura
-
-- **Nombre de la asignatura:** Programación Orientada a Objetos
-- **Departamento o Licenciatura:** Ingeniería en Datos e Inteligencia Organizacional
-- **Ciclo:** 2
-- **Clave:** IT0210
-- **Créditos:** 6
-- **Área de formación curricular:** Profesional Asociado y Licenciatura Básica
-- **Tipo de asignatura:** Seminario
-- **Horas de estudio:**
-  - HT: 32
-  - HP: 16
-  - TH: 48
-  - HI: 48
-
 ## Objetivos de la Asignatura
 
 - **Objetivo Cognitivo:** Describir las propiedades de la programación orientada a objetos para la distinción de sus principales características.
@@ -32,10 +17,10 @@ Este repositorio contiene información y recursos relacionados con la asignatura
   2. Clases
   3. Objetos
   4. Propiedades de la programación orientada a objetos
-     a) Abstracción
-     b) Encapsulamiento
-     c) Polimorfismo
-     d) Herencia
+     - a) Abstracción
+     - b) Encapsulamiento
+     - c) Polimorfismo
+     - d) Herencia
 
 ### Unidad II. Abstracción y Encapsulamiento
 
@@ -49,8 +34,8 @@ Este repositorio contiene información y recursos relacionados con la asignatura
 - Emplear las propiedades de herencia y polimorfismo para la definición de clases e instanciación de objetos.
   1. Modelando clases y subclases
   2. Herencia
-     a) Definición de superclases
-     b) Definición de subclases
+     - a) Definición de superclases
+     - b) Definición de subclases
   3. Polimorfismo
 
 ### Unidad IV. Interfaces y Herencia Múltiple
@@ -66,7 +51,3 @@ Este repositorio contiene información y recursos relacionados con la asignatura
   1. Creación de hilos
   2. Sincronización de hilos
   3. Agrupación de hilos
-
----
-
-*Este README.md proporciona una visión general de la asignatura "Programación Orientada a Objetos" y sus unidades correspondientes. Para obtener más detalles, consulte los materiales y recursos proporcionados en este repositorio.*
