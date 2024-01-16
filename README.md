@@ -17,10 +17,10 @@ Este repositorio contiene información y recursos relacionados con la asignatura
   2. Clases
   3. Objetos
   4. Propiedades de la programación orientada a objetos
-     - a) Abstracción
-     - b) Encapsulamiento
-     - c) Polimorfismo
-     - d) Herencia
+     - Abstracción
+     - Encapsulamiento
+     - Polimorfismo
+     - Herencia
 
 ### Unidad II. ABSTRACCIÓN Y ENCAPSULAMIENTO
 
@@ -34,8 +34,8 @@ Este repositorio contiene información y recursos relacionados con la asignatura
 - Emplear las propiedades de herencia y polimorfismo para la definición de clases e instanciación de objetos.
   1. Modelando clases y subclases
   2. Herencia
-     - a) Definición de superclases
-     - b) Definición de subclases
+     - Definición de superclases
+     - Definición de subclases
   3. Polimorfismo
 
 ### Unidad IV. INTERFACES Y HERENCIA MÚLTIPLE
