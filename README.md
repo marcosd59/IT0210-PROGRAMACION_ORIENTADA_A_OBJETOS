@@ -58,5 +58,5 @@ En esta unidad, se elige el paradigma orientado a objetos para la creación de p
 3. **Agrupación de hilos**
 
 ```bash
-git clone https://github.com/TuUsuario/IT0210-PROGRAMACION_ORIENTADA_A_OBJETOS.git
+git clone https://github.com/marcosd59/IT0210-PROGRAMACION_ORIENTADA_A_OBJETOS.git
 ```
