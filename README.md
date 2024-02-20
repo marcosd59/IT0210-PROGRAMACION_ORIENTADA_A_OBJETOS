@@ -1,6 +1,6 @@
 # Programación Orientada a Objetos - IT0210
 
-Este repositorio está dedicado a la asignatura "Programación Orientada a Objetos" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
+Este repositorio está dedicado a la asignatura "Programación Orientada a Objetos".
 
 ## Objetivos de la Asignatura
 
@@ -56,7 +56,3 @@ En esta unidad, se elige el paradigma orientado a objetos para la creación de p
 1. **Creación de hilos**
 2. **Sincronización de hilos**
 3. **Agrupación de hilos**
-
-```bash
-git clone https://github.com/marcosd59/IT0210-PROGRAMACION_ORIENTADA_A_OBJETOS.git
-```
