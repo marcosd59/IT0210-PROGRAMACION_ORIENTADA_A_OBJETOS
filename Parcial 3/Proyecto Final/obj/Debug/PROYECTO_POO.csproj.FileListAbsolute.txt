@@ -1,0 +1,36 @@
+C:\Users\Marco\source\repos\PROYECTO_POO\bin\Debug\PROYECTO_POO.exe.config
+C:\Users\Marco\source\repos\PROYECTO_POO\bin\Debug\PROYECTO_POO.exe
+C:\Users\Marco\source\repos\PROYECTO_POO\bin\Debug\PROYECTO_POO.pdb
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.csproj.AssemblyReference.cache
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.frmBienvenida.resources
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.Log.resources
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.Properties.Resources.resources
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.exe
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.pdb
+C:\Users\Marco\source\repos\PROYECTO_POO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marco\source\repos\PROYECTO_POO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.csproj.CopyComplete
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.Cliente.resources
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.Informacion.resources
+C:\Users\Marco\source\repos\PROYECTO_POO\obj\Debug\PROYECTO_POO.ListaClientes.resources
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\bin\Debug\PROYECTO_POO.exe.config
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\bin\Debug\PROYECTO_POO.exe
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\bin\Debug\PROYECTO_POO.pdb
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\bin\Debug\Newtonsoft.Json.dll
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\bin\Debug\Newtonsoft.Json.xml
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.csproj.AssemblyReference.cache
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.csproj.SuggestedBindingRedirects.cache
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.frmBienvenida.resources
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.Cliente.resources
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.Informacion.resources
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.ListaClientes.resources
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.Log.resources
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.Properties.Resources.resources
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.csproj.GenerateResource.cache
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.csproj.CoreCompileInputs.cache
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.csproj.CopyComplete
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.exe
+D:\CARPETA_DE_EVIDENCIAS_SEMESTRE_8\programacion-orientada-a-objetos\Parcial 3\Proyecto Final\obj\Debug\PROYECTO_POO.pdb
