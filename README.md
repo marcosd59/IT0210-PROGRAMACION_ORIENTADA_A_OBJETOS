@@ -1,12 +1,16 @@
 # Programación Orientada a Objetos - IT0210
 
-Este repositorio está dedicado a la asignatura "Programación Orientada a Objetos".
+Este repositorio incluye códigos y proyectos relacionados a la programación orientada a objetos, cubriendo temas como clases, objetos, herencia y polimorfismo. Contiene actividades prácticos, ejemplos de juegos y un proyecto final donde se aplican todos los conceptos de POO.
 
-## Objetivos de la Asignatura
+## Proyecto Final - Sistema de clientes
 
-- **Objetivo Cognitivo:** Describir las propiedades de la programación orientada a objetos para la distinción de sus principales características.
-- **Objetivo Procedimental:** Construir aplicaciones utilizando el paradigma orientado a objetos para la solución a diversos problemas computacionales.
-- **Objetivo Actitudinal:** Fomentar la disciplina en el análisis y solución de problemas para el desarrollo de habilidades.
+### Capturas de pantalla
+
+[Login](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082619.png)
+[Lista](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082631.png)
+[RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082722.png)
+[RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082840.png)
+[Cliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082853.png)
 
 ## Unidades y Temas
 
