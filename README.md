@@ -6,11 +6,11 @@ Este repositorio incluye códigos y proyectos relacionados a la programación or
 
 ### Capturas de pantalla
 
-[Login](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082619.png)
-[Lista](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082631.png)
-[RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082722.png)
-[RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082840.png)
-[Cliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082853.png)
+![Login](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082619.png)
+![Lista](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082631.png)
+![RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082722.png)
+![RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082840.png)
+![Cliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082853.png)
 
 ## Unidades y Temas
 
