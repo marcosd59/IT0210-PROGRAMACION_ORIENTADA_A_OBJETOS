@@ -17,9 +17,12 @@ Este repositorio incluye códigos y proyectos relacionados a la programación or
 ### Registrar clientes
 
 ![RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082722.png)
-![RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082840.png)
 
 ### Visualizar clientes
+
+![RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082840.png)
+
+### Cliente actual
 
 ![Cliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082853.png)
 
