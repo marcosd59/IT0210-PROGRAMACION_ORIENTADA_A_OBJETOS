@@ -1,76 +1,64 @@
-# Programación Orientada a Objetos - IT0210
+# Formulario de Clientes
 
-Este repositorio incluye códigos y proyectos relacionados a la programación orientada a objetos, cubriendo temas como clases, objetos, herencia y polimorfismo. Contiene actividades prácticos, ejemplos de juegos y un proyecto final donde se aplican todos los conceptos de POO.
+Este proyecto en C# demuestra la implementación de un formulario de clientes utilizando Windows Forms. Se compone de tres formularios principales para ingresar, visualizar y listar los datos de los clientes.
 
-## Proyecto Final - Sistema de clientes
+## Características
 
-### Capturas de pantalla
+- **Formulario de entrada:** Permite ingresar datos de los clientes como nombre, apellido, edad, dirección y género.
+- **Formulario de visualización:** Muestra la información detallada de un cliente seleccionado.
+- **Formulario de listado:** Lista todos los clientes que han sido ingresados en el sistema.
+
+## Cómo Usar
+
+1. **Clonar el Repositorio:**
+
+   ```bash
+   git clone https://github.com/marcosd59/formulario-de-clientes.git
+   ```
+
+2. **Abrir el Proyecto:**
+
+   Abre Visual Studio y selecciona `Archivo > Abrir > Proyecto/Solución`, y navega hasta la ubicación donde clonaste el repositorio. Selecciona el archivo de solución `.sln` para abrir el proyecto.
+
+3. **Ejecutar el Proyecto:**
+
+   Una vez abierto el proyecto, puedes ejecutarlo presionando `F5` o haciendo clic en `Iniciar` en la barra de herramientas. Esto abrirá el formulario principal desde donde podrás interactuar con las funcionalidades del proyecto.
+
+4. **Uso del Formulario:**
+
+   - **Ingresar datos:** En el formulario de entrada, llena los campos requeridos y haz clic en el botón `Insertar` para añadir un nuevo cliente.
+   - **Visualizar datos:** Utiliza los botones `Pantalla 2` y `Pantalla 3` para navegar entre los formularios y visualizar los datos de los clientes.
+   - **Listar clientes:** El formulario de listado muestra todos los clientes ingresados y permite visualizar su información detallada.
+
+## Capturas de Pantalla
 
 ### Login
 
-![Login](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082619.png)
+![Pantalla de login](./Furmulario%20de%20clientes/screenshots/pantalla-de-login.png)
 
-### Lista de clientes
+### Pantalla de inicio
 
-![Lista](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082631.png)
+![Pantalla de inicio](./Furmulario%20de%20clientes/screenshots/pantalla-de-inicio.png)
 
 ### Registrar clientes
 
-![RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082722.png)
+![Registrar clientes](./Furmulario%20de%20clientes/screenshots/registrar-clientes.png)
 
 ### Visualizar clientes
 
-![RegistrarCliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082840.png)
+![Visualizar clientes](./Furmulario%20de%20clientes/screenshots/lista-de-clientes.png)
 
 ### Cliente actual
 
-![Cliente](./Parcial%203/Screenshots/Captura%20de%20pantalla%202024-02-25%20082853.png)
+![Cliente actual](./Furmulario%20de%20clientes/screenshots/visualizar-cliente.png)
 
-## Unidades y Temas
+## Requisitos
 
-### Unidad I. CONCEPTOS BÁSICOS
+Para ejecutar y modificar este proyecto necesitarás:
 
-En esta unidad, se describen las principales características de la programación orientada a objetos para la implementación de soluciones utilizando este paradigma.
+- Visual Studio 2019 o superior.
+- .NET Framework 4.7.2 o superior.
 
-1. **Tipos de datos abstractos**
-2. **Clases**
-3. **Objetos**
-4. **Propiedades de la programación orientada a objetos**
-   - Abstracción
-   - Encapsulamiento
-   - Polimorfismo
-   - Herencia
+## Contribuciones
 
-### Unidad II. ABSTRACCIÓN Y ENCAPSULAMIENTO
-
-En esta unidad, se aplican las propiedades de abstracción y encapsulamiento para la definición de clases e instanciación de objetos.
-
-1. **Modelando clases**
-2. **Abstracción**
-3. **Encapsulamiento**
-
-### Unidad III. HERENCIA Y POLIMORFISMO
-
-En esta unidad, se emplean las propiedades de herencia y polimorfismo para la definición de clases e instanciación de objetos.
-
-1. **Modelando clases y subclases**
-2. **Herencia**
-   - Definición de superclases
-   - Definición de subclases
-3. **Polimorfismo**
-
-### Unidad IV. INTERFACES Y HERENCIA MÚLTIPLE
-
-En esta unidad, se utilizan interfaces y herencia múltiple para la implementación de programas utilizando el paradigma orientado a objetos.
-
-1. **Clases abstractas**
-2. **Interfaces**
-3. **Herencia múltiple**
-
-### Unidad V. PROGRAMACIÓN CONCURRENTE
-
-En esta unidad, se elige el paradigma orientado a objetos para la creación de programas concurrentes.
-
-1. **Creación de hilos**
-2. **Sincronización de hilos**
-3. **Agrupación de hilos**
+Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, sientete libre de clonar, hacer tus cambios y enviar un pull request.
